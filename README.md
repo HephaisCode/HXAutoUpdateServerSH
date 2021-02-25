@@ -1,0 +1,2 @@
+# HXAutoUpdateServerSH
+HXAutoUpdateServerSH
